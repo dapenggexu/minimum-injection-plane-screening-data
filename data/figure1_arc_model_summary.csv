@@ -1,0 +1,2 @@
+budget_mps,horizon_days,delta_a_eff_km_display,reachable_arc_previous_deg,reachable_arc_corrected_deg,previous_width_bias_percent,total_candidate_resource_rows,changed_K_min_rows,changed_unique_candidates,default_cell_candidate_rows,default_cell_changed_K_min_rows
+50,90,45.67,18.922991400136322,18.646446079286555,1.4830993513394908,54000,2157,1725,6000,206

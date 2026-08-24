@@ -1,0 +1,7 @@
+N,group_K,allowed_initial_planes,phase_span_pass,reachable_arc_v1_deg,reachable_arc_v2_deg,K_min_v1,K_min_v2,passes_under_allowed_planes_v1,passes_under_allowed_planes_v2,K_changed,pass_flip
+12,1,1,true,18.922991400136322,18.646446079286555,1,1,true,true,false,false
+12,2,1,true,18.922991400136322,18.646446079286555,2,2,false,false,false,false
+12,3,1,true,18.922991400136322,18.646446079286555,3,3,false,false,false,false
+24,1,1,true,18.922991400136322,18.646446079286555,1,1,true,true,false,false
+24,2,1,true,18.922991400136322,18.646446079286555,2,2,false,false,false,false
+24,3,1,true,18.922991400136322,18.646446079286555,3,3,false,false,false,false
