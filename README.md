@@ -4,8 +4,6 @@ This repository contains publication-facing processed data corresponding to the 
 
 > *Minimum Injection-Plane Screening of Irregular Regional LEO Constellations: Exact Circular-Arc Covering, Resource Landscapes, and Performance--Deployment Trade-offs*
 
-Source code is not included.
-
 ## Data files
 
 | File | Manuscript correspondence | Supported result |
