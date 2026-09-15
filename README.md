@@ -26,9 +26,3 @@ This repository contains publication-facing processed data corresponding to the 
 - `evaluation_start_offset_sec`: start offset of the evaluation window in seconds; the two windows remain separate.
 - P95 and maximum-gap fields are expressed in minutes.
 - Empty frontier performance fields indicate that the evaluated set contains no feasible candidate at that allowed plane count; no interpolation is applied.
-
-Candidate identifiers, random seeds, source-control hashes, machine paths, and implementation files have been removed from this publication-facing dataset.
-
-## Citation
-
-Please cite the manuscript above. Complete bibliographic details will be added after publication.
